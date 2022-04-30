@@ -1,4 +1,6 @@
  const Discord = require("discord.js");
+ const { Captcha } = require("captcha-canvas");
+ const { MessageAttachment } = require("discord.js");
 
  const client = new Discord.Client({
    fetchAllMembers: false,
