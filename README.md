@@ -5,4 +5,6 @@ When a person join the server, the bot send a captcha in user's dm. If the user 
 
 NPM
 
-`npm i captcha-canvas`
+`npm i captcha-canvas@latest`
+
+`npm i discord.js@12.5.3`
